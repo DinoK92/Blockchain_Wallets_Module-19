@@ -17,8 +17,9 @@ KryptoJobs2Go is a Streamlit application designed to streamline the process of h
 
 ![KryptoJobs2Go](https://github.com/DinoK92/Blockchain_Wallets_Module-19/blob/main/Images/KryptoJobs2Go.png)
 
-* Transactions
-![Transactions]()
-![](images/Transactions.png)
-![](images/Transactions-1.png)
-![](images/Blocks.png)
+## Ganache Transactions 
+
+![Transactions](https://github.com/DinoK92/Blockchain_Wallets_Module-19/blob/main/Images/Transactions.png)
+![](https://github.com/DinoK92/Blockchain_Wallets_Module-19/blob/main/Images/Transactions-1.png)
+![](https://github.com/DinoK92/Blockchain_Wallets_Module-19/blob/main/Images/Ganache.png)
+![](https://github.com/DinoK92/Blockchain_Wallets_Module-19/blob/main/Images/Blocks.png)
