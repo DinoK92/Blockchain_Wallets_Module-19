@@ -12,9 +12,11 @@ KryptoJobs2Go is a Streamlit application designed to streamline the process of h
 - **Candidate Database:** Access a built-in database of KryptoJobs2Go candidates, including their ratings, hourly rates, and Ethereum addresses.
 - **Streamlit Integration:** Utilize a user-friendly Streamlit interface for managing transactions and hiring fintech professionals.
 
+* KryptoJobs2Go Interface
 ![KryptoJobs2Go](https://github.com/DinoK92/Blockchain_Wallets_Module-19/blob/main/Images/KryptoJobs2Go.png)
 
-![Transactions](images/Ganache.png)
+* Transactions
+![Transactions]()
 ![](images/Transactions.png)
 ![](images/Transactions-1.png)
 ![](images/Blocks.png)
